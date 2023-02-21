@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="300" />
+</div>  
+  
 
-<!--
-**Korwys/Korwys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">I'm Daniil a Python backend developer 👨‍💻 hard working since 2022 🚀</div>  
+  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on freelance projects  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Microservices and Kubernetes  
+  
+
+- ⚡ Fun fact: Don't use ChatGPT in my code  
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=agave&size=22&pause=1000&color=040D12&width=435&lines=Explicit+is+better+than+implicit..." align="center" height="" width="" />
+</div>  
